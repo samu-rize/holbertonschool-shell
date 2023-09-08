@@ -1,8 +1,8 @@
-![Television Wizard GIF](https://media.giphy.com/media/5WAdRevloGjuw/giphy.gif)
-
 # Holberton School Shell Basics
 
-Welcome to the "Holberton School Shell Basics" repository! This repository documents the tasks and scripts completed as part of the shell basics curriculum at Holberton School.
+Welcome to the "Basics" project! This directory scripts completed as part of the shell basics curriculum at Holberton School.
+
+![Television Wizard GIF](https://media.giphy.com/media/5WAdRevloGjuw/giphy.gif)
 
 ## Table of Contents
 
@@ -112,5 +112,4 @@ Upon completing this project, you should be able to:
 ## Requirements
 
 - All scripts should be two lines long, ending with a new line.
-- The first line of all scripts should be exactly "#!/bin/bash."
-- Each script must
+- Each script must begin with the following line: "#!/bin/bash."
