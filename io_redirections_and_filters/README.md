@@ -151,3 +151,5 @@ By the end of this project, you will:
 - You are not allowed to use backticks, `&&`, `||`, or `;`
 - All your files must be executable
 - You are not allowed to use `sed` or `awk`
+- All scripts should be two lines long, ending with a new line.
+- Each script must begin with the following line: "#!/bin/bash."
