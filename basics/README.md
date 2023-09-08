@@ -1,6 +1,6 @@
 # Holberton School Shell Basics
 
-Welcome to the "Basics" project! This directory scripts completed as part of the shell basics curriculum at Holberton School.
+Welcome to the "Basics" project! The scripts in this directory were completed as part of the Shell Basics curriculum at Holberton School.
 
 ![Television Wizard GIF](https://media.giphy.com/media/5WAdRevloGjuw/giphy.gif)
 
