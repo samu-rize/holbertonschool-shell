@@ -52,7 +52,11 @@ This script sets the permission to the file 'hello' as follows: Owner has no per
 
 ### 9-john_doe_permissions
 
-This script sets the mode of the file 'hello' to '-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello'.
+This script sets the mode of the file 'hello' to
+
+```bash
+-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello.
+```
 
 ### 10-mirror_permissions
 
