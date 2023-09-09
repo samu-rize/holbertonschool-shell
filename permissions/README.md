@@ -14,7 +14,7 @@ Welcome to the "Shell Permissions" project! The scripts in this directory were c
 
 ## Scripts
 
-#### [0-switch_user](0-switch_user)
+#### [0-iam_betty](0-iam_betty)
   - This script switches the current user to the user 'betty' in exactly 8 characters.
 
 #### [1-who_am_i](1-who_am_i)
@@ -26,22 +26,22 @@ Welcome to the "Shell Permissions" project! The scripts in this directory were c
 #### [3-new_owner](3-new_owner)
   - This script changes the owner of the file 'hello' to the user 'betty'.
 
-#### [4-empty_file](4-empty_file)
+#### [4-empty](4-empty)
   - This script creates an empty file called 'hello'.
 
-#### [5-execute_permission](5-execute_permission)
+#### [5-execute](5-execute)
   - This script adds execute permission to the owner of the file 'hello'.
 
 #### [6-multiple_permissions](6-multiple_permissions)
   - This script adds execute permission to the owner and the group owner, and read permission to other users, to the file 'hello'.
 
-#### [7-everybody_permissions](7-everybody_permissions)
+#### [7-everybody](7-everybody)
   - This script adds execution permission to the owner, the group owner, and other users to the file 'hello'.
 
-#### [8-james_bond_permissions](8-james_bond_permissions)
+#### [8-James_Bond](8-James_Bond)
   - This script sets the permission to the file 'hello' as follows: Owner has no permission, Group has no permission, Other users have all the permissions.
 
-#### [9-john_doe_permissions](9-john_doe_permissions)
+#### [9-John_Doe](9-John_Doe)
   - This script sets the mode of the file 'hello' to [MODE].
 ```bash
 -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello.
@@ -49,19 +49,19 @@ Welcome to the "Shell Permissions" project! The scripts in this directory were c
 #### [10-mirror_permissions](10-mirror_permissions)
   - This script sets the mode of the file 'hello' the same as 'olleh's mode'.
 
-#### [11-add_execute_to_directories](11-add_execute_to_directories)
+#### [11-directories_permissions](11-directories_permissions)
   - This script adds execute permission to all subdirectories of the current directory for the owner, the group owner, and all other users. Regular files should not be changed.
 
-#### [13-change_group_owner](13-change_group_owner)
+#### [13-change_group](13-change_group)
   - This script changes the group owner to 'school' for the file 'hello'.
 
 #### [14-change_owner_and_group](14-change_owner_and_group)
   - This script changes the owner to 'vincent' and the group owner to 'staff' for all the files and directories in the working directory.
 
-#### [15-symbolic_links](15-symbolic_links)
+#### [15-symbolic_link_permissions](15-symbolic_link_permissions)
   - This script changes the owner and the group owner of '_hello' to 'vincent' and 'staff' respectively. The file '_hello' is a symbolic link.
 
-#### [16-change_owner_if_owned_by](16-change_owner_if_owned_by)
+#### [16-if_only](16-if_only)
   - This script changes the owner of the file 'hello' to 'vincent' only if it is owned by the user 'guillaume'.
 
 ---

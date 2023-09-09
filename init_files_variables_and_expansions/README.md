@@ -14,7 +14,7 @@ Welcome to the "Shell, Init Files, Variables, and Expansions" project! The scrip
 
 ## Scripts
 
-#### [0-alias_ls](0-alias_ls)
+#### [0-alias](0-alias)
 
   - This script creates an alias for 'ls' with the value 'rm *'.
 
@@ -22,11 +22,11 @@ Welcome to the "Shell, Init Files, Variables, and Expansions" project! The scrip
 
   - This script prints 'hello user,' where 'user' is the current Linux user.
 
-#### [2-path_to_success](2-path_to_success)
+#### [2-path](2-path)
 
   - This script adds '/action' to the PATH, making it the last directory the shell looks into when searching for a program.
 
-#### [3-path_beautiful](3-path_beautiful)
+#### [3-paths](3-paths)
 
   - This script counts the number of directories in the PATH.
 
@@ -54,7 +54,7 @@ Welcome to the "Shell, Init Files, Variables, and Expansions" project! The scrip
 
   - This script prints the result of dividing the value in the environment variable 'POWER' by 'DIVIDE.'
 
-#### [10-love_exponent](10-love_exponent)
+#### [10-love_exponent_breath](10-love_exponent_breath)
 
   - This script displays the result of 'BREATH' raised to the power of 'LOVE.'
 
@@ -66,7 +66,7 @@ Welcome to the "Shell, Init Files, Variables, and Expansions" project! The scrip
 
   - This script prints all possible combinations of two lowercase letters, except 'oo,' in alphabetical order.
 
-#### [13-floats](13-floats)
+#### [13-print_float](13-print_float)
 
   - This script prints a number with two decimal places, with the number stored in the environment variable 'NUM.'
 
@@ -74,19 +74,20 @@ Welcome to the "Shell, Init Files, Variables, and Expansions" project! The scrip
 
   - This script converts a number from base 10 to base 16, with the number in base 10 stored in the environment variable 'DECIMAL.'
 
-#### [15-ls_command](15-ls_command)
+#### [15. What happens when you type ls *.c
+](15)
 
   - This script explains step by step what happens when you type 'ls *.c' and hit Enter in your shell, including examples.
 
-#### [16-rot13_encoding](16-rot13_encoding)
+#### [15-rot13](15-rot13)
 
   - This script encodes and decodes text using the rot13 encryption.
 
-#### [17-odd_lines](17-odd_lines)
+#### [16-odd](16-odd)
 
   - This script prints every other line from the input, starting with the first line.
 
-#### [18-base_conversion](18-base_conversion)
+#### [17-water_and_stir](17-water_and_stir)
 
   - This script adds two numbers stored in the environment variables 'WATER' (base 'water') and 'STIR' (base 'stir'), and prints the result in base 'bestchol.'
 
