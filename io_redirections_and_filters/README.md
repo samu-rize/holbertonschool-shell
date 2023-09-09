@@ -1,6 +1,6 @@
 # Shell, I/O Redirections and Filters - Holberton School
 
-Welcome to the "Shell, I/O Redirections and Filters" project! The scripts in this directory were completed as part of the Shell Shell, I/O Redirections and Filters curriculum at Holberton School.
+Welcome to the "Shell, I/O Redirections and Filters" project! The scripts in this directory were completed as part of the Shell, I/O Redirections and Filters curriculum at Holberton School.
 
 ![hello_world](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)
 
