@@ -14,117 +14,117 @@ Welcome to the "Shell, I/O Redirections and Filters" project! The scripts in thi
 
 ## Scripts
 
-### 0-hello_world
+#### [0-hello_world](0-hello_world)
 
-This script prints "Hello, World" followed by a new line to the standard output.
+  - This script prints "Hello, World" followed by a new line to the standard output.
 
-### 1-confused_smiley
+#### [1-confused_smiley](1-confused_smiley)
 
-This script displays a confused smiley "(Ôo)'.
+  - This script displays a confused smiley "(Ôo)'.
 
-### 2-display_file
+#### [2-display_file](2-display_file)
 
-Displays the content of the `/etc/passwd` file.
+  - Displays the content of the `/etc/passwd` file.
 
-### 3-show_files
+#### [3-show_files](3-show_files)
 
-Displays the content of `/etc/passwd` and `/etc/hosts` files.
+  - Displays the content of `/etc/passwd` and `/etc/hosts` files.
 
-### 4-last_lines
+#### [4-last_lines](4-last_lines)
 
-Displays the last 10 lines of the `/etc/passwd` file.
+  - Displays the last 10 lines of the `/etc/passwd` file.
 
-### 5-first_lines
+#### [5-first_lines](5-first_lines)
 
-Displays the first 10 lines of the `/etc/passwd` file.
+  - Displays the first 10 lines of the `/etc/passwd` file.
 
-### 6-third_line
+#### [6-third_line](6-third_line)
 
-Displays the third line of the file `iacta` in the working directory. (You're not allowed to use `sed`)
+  - Displays the third line of the file `iacta` in the working directory. (You're not allowed to use `sed`)
 
-### 7-file
+#### [7-file](7-file)
 
-Creates a file named `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text "Best School" ending by a new line.
+  - Creates a file named `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text "Best School" ending by a new line.
 
-### 8-cwd_state
+#### [8-cwd_state](8-cwd_state)
 
-Writes the result of the command `ls -la` into the file `ls_cwd_content`. If the file already exists, it should be overwritten; if it doesn't exist, create it.
+  - Writes the result of the command `ls -la` into the file `ls_cwd_content`. If the file already exists, it should be overwritten; if it doesn't exist, create it.
 
-### 9-duplicate_last_line
+#### [9-duplicate_last_line](9-duplicate_last_line)
 
-Duplicates the last line of the file `iacta` in the working directory.
+  - Duplicates the last line of the file `iacta` in the working directory.
 
-### 10-no_more_js
+#### [10-no_more_js](10-no_more_js)
 
-Deletes all regular files (not directories) with a `.js` extension in the current directory and its subfolders.
+  - Deletes all regular files (not directories) with a `.js` extension in the current directory and its subfolders.
 
-### 11-directories_count
+#### [11-directories_count](11-directories_count)
 
-Counts the number of directories and subdirectories in the current directory, excluding the current and parent directories. Hidden directories should be counted.
+  - Counts the number of directories and subdirectories in the current directory, excluding the current and parent directories. Hidden directories should be counted.
 
-### 12-newest_files
+#### [12-newest_files](12-newest_files)
 
-Displays the 10 newest files in the current directory, one file per line, sorted from newest to oldest.
+  - Displays the 10 newest files in the current directory, one file per line, sorted from newest to oldest.
 
-### 13-unique
+#### [13-unique](13-unique)
 
-Takes a list of words as input and prints only words that appear exactly once. Input and output format should be one line, one word, and words should be sorted.
+  - Takes a list of words as input and prints only words that appear exactly once. Input and output format should be one line, one word, and words should be sorted.
 
-### 14-find_pattern
+#### [14-find_pattern](14-find_pattern)
 
-Displays lines containing the pattern "root" from the file `/etc/passwd`.
+  - Displays lines containing the pattern "root" from the file `/etc/passwd`.
 
-### 15-count_pattern
+#### [15-count_pattern](15-count_pattern)
 
-Displays the number of lines containing the pattern "bin" in the file `/etc/passwd`.
+  - Displays the number of lines containing the pattern "bin" in the file `/etc/passwd`.
 
-### 16-grep_c
+#### [16-grep_c](16-grep_c)
 
-Displays lines containing the pattern "root" and 3 lines after them in the file `/etc/passwd`.
+  - Displays lines containing the pattern "root" and 3 lines after them in the file `/etc/passwd`.
 
-### 17-grep_exclude
+#### [17-grep_exclude](17-grep_exclude)
 
-Displays all lines in the file `/etc/passwd` that do not contain the pattern "bin".
+  - Displays all lines in the file `/etc/passwd` that do not contain the pattern "bin".
 
-### 18-starts_with_letter
+#### [18-starts_with_letter](18-starts_with_letter)
 
-Displays all lines of the file `/etc/ssh/sshd_config` starting with a letter, including capital letters.
+  - Displays all lines of the file `/etc/ssh/sshd_config` starting with a letter, including capital letters.
 
-### 19-replace_char
+#### [19-replace_char](19-replace_char)
 
-Replaces all occurrences of characters 'A' and 'c' from input with 'Z' and 'e' respectively.
+  - Replaces all occurrences of characters 'A' and 'c' from input with 'Z' and 'e' respectively.
 
-### 20-remove_c_C
+#### [20-remove_c_C](20-remove_c_C)
 
-Removes all occurrences of letters 'c' and 'C' from input.
+  - Removes all occurrences of letters 'c' and 'C' from input.
 
-### 21-reverse
+#### [21-reverse](21-reverse)
 
-Reverses its input.
+  - Reverses its input.
 
-### 22-list_users
+#### [22-list_users](22-list_users)
 
-Displays all users and their home directories, sorted by users, based on the `/etc/passwd` file.
+  - Displays all users and their home directories, sorted by users, based on the `/etc/passwd` file.
 
-### 23-empty_casks
+#### [23-empty_casks](23-empty_casks)
 
-Finds all empty files and directories in the current directory and its subdirectories. Only the names of the files and directories should be displayed, and hidden files should be listed.
+  - Finds all empty files and directories in the current directory and its subdirectories. Only the names of the files and directories should be displayed, and hidden files should be listed.
 
-### 24-list_gifs
+#### [24-list_gifs](24-list_gifs)
 
-Lists all files with a `.gif` extension in the current directory and its subdirectories. Hidden files should be listed, and only regular files (not directories) should be listed. The names of the files should be displayed without their extensions, sorted by byte values in a case-insensitive manner.
+  - Lists all files with a `.gif` extension in the current directory and its subdirectories. Hidden files should be listed, and only regular files (not directories) should be listed. The names of the files should be displayed without their extensions, sorted by byte values in a case-insensitive manner.
 
-### 25-acrostic
+#### [25-acrostic](25-acrostic)
 
-Decodes acrostics that use the first letter of each line. The decoded message should end with a new line.
+  - Decodes acrostics that use the first letter of each line. The decoded message should end with a new line.
 
-### 26-hosts_requests
+#### [26-hosts_requests](26-hosts_requests)
 
-Parses web server logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests. The output should be ordered by the number of requests, with the most active host or IP at the top.
+  - Parses web server logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests. The output should be ordered by the number of requests, with the most active host or IP at the top.
 
-### 27-holberton_mission
+#### [27-holberton_mission](27-holberton_mission)
 
-Create a script that displays the Holberton school mission statement, which is stored in the file `/etc/holberton-mission`.
+  - Create a script that displays the Holberton school mission statement, which is stored in the file `/etc/holberton-mission`.
 
 ---
 
