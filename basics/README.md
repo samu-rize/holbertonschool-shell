@@ -14,77 +14,42 @@ Welcome to the "Basics" project! The scripts in this directory were completed as
 
 ## Scripts
 
-### 0-current_working_directory
-
-This script prints the absolute path name of the current working directory.
-
-### 1-listit
-
-Displays the contents list of the current directory.
-
-### 2-bring_me_home
-
-Changes the working directory to the user's home directory.
-
-### 3-listfiles
-
-Displays the current directory contents in long format.
-
-### 4-listmorefiles
-
-Displays the current directory contents, including hidden files, in long format.
-
-### 5-listfilesdigitonly
-
-Displays the current directory contents in long format with user and group IDs displayed numerically, including hidden files.
-
-### 6-firstdirectory
-
-Creates a directory named "my_first_directory" in the /tmp/ directory.
-
-### 7-movethatfile
-
-Moves the file "betty" from /tmp/ to /tmp/my_first_directory.
-
-### 8-firstdelete
-
-Deletes the file "betty" from /tmp/my_first_directory.
-
-### 9-firstdirdeletion
-
-Deletes the directory "my_first_directory" from the /tmp directory.
-
-### 10-back
-
-Changes the working directory to the previous one.
-
-### 11-lists
-
-Lists all files, including hidden ones, in the current directory, parent directory, and /boot directory in long format.
-
-### 12-file_type
-
-Prints the type of the file named "iamafile" located in the /tmp directory.
-
-### 13-symbolic_link
-
-Creates a symbolic link to /bin/ls, named "__ls__," in the current working directory.
-
-### 14-copy_html
-
-Copies all HTML files from the current working directory to the parent directory, preserving newer versions and avoiding overwrites.
-
-### 15-lets_move
-
-Moves files beginning with an uppercase letter to the directory /tmp/u.
-
-### 16-clean_emacs
-
-Deletes all files in the current working directory that end with the character "~."
-
-### 17-tree
-
-Creates the directories "welcome/," "welcome/to/," and "welcome/to/school" in the current directory.
+#### [0-current_working_directory](basics/0-current_working_directory)
+  - This script prints the absolute path name of the current working directory.
+#### [1-listit](basics/1-listit)
+  - Displays the contents list of the current directory.
+#### [2-bring_me_home](basics/2-bring_me_home)
+  - Changes the working directory to the user's home directory.
+#### [3-listfiles](basics/3-listfiles)
+  - Displays the current directory contents in long format.
+#### [4-listmorefiles](basics/4-listmorefiles)
+  - Displays the current directory contents, including hidden files, in long format.
+#### [5-listfilesdigitonly](basics/5-listfilesdigitonly)
+  - Displays the current directory contents in long format with user and group IDs displayed numerically, including hidden files.
+#### [6-firstdirectory](basics/6-firstdirectory)
+  - Creates a directory named "my_first_directory" in the /tmp/ directory.
+#### [7-movethatfile](basics/7-movethatfile)
+  - Moves the file "betty" from /tmp/ to /tmp/my_first_directory.
+#### [8-firstdelete](basics/8-firstdelete)
+  - Deletes the file "betty" from /tmp/my_first_directory.
+#### [9-firstdirdeletion](basics/9-firstdirdeletion)
+  - Deletes the directory "my_first_directory" from the /tmp directory.
+#### [10-back](basics/10-back)
+  - Changes the working directory to the previous one.
+#### [11-lists](basics/11-lists)
+  - Lists all files, including hidden ones, in the current directory, parent directory, and /boot directory in long format.
+#### [12-file_type](basics/12-file_type)
+  - Prints the type of the file named "iamafile" located in the /tmp directory.
+#### [13-symbolic_link](basics/13-symbolic_link)
+  - Creates a symbolic link to /bin/ls, named "__ls__," in the current working directory.
+#### [14-copy_html](basics/14-copy_html)
+  - Copies all HTML files from the current working directory to the parent directory, preserving newer versions and avoiding overwrites.
+#### [15-lets_move](basics/15-lets_move)
+  - Moves files beginning with an uppercase letter to the directory /tmp/u.
+#### [16-clean_emacs](basics/16-clean_emacs)
+  - Deletes all files in the current working directory that end with the character "~."
+#### [17-tree](basics/17-tree)
+  - Creates the directories "welcome/," "welcome/to/," and "welcome/to/school" in the current directory.
 
 ---
 
