@@ -14,7 +14,7 @@ Welcome to the "Basics" project! The scripts in this directory were completed as
 
 ## Scripts
 
-#### [0-current_working_directory](basics/0-current_working_directory)
+#### [0-current_working_directory](0-current_working_directory)
   - This script prints the absolute path name of the current working directory.
 #### [1-listit](basics/1-listit)
   - Displays the contents list of the current directory.
