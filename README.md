@@ -39,7 +39,6 @@ The scripts in this directory were completed as part of the Shell Basics curricu
 - [16-clean_emacs](basics/16-clean_emacs)
 - [17-tree](basics/17-tree)
 
----
 
 ### Learning Objectives
 
@@ -94,7 +93,6 @@ The scripts in this directory were completed as part of the Shell, Init Files, V
 - [17-odd_lines](init_files_variables_and_expansions/17-odd_lines)
 - [18-base_conversion](init_files_variables_and_expansions/18-base_conversion)
 
----
 
 ### Learning Objectives
 
@@ -156,7 +154,6 @@ The scripts in this directory were completed as part of the Shell, I/O Redirecti
 - [25-acrostic](io_redirections_and_filters/25-acrostic)
 - [26-hosts_requests](io_redirections_and_filters/26-hosts_requests)
 
----
 
 ### Learning Objectives
 
@@ -205,7 +202,6 @@ The scripts in this directory were completed as part of the Shell Permissions cu
 - [15-symbolic_links](permissions/15-symbolic_links)
 - [16-change_owner_if_owned_by](permissions/16-change_owner_if_owned_by)
 
----
 
 ### Learning Objectives
 
