@@ -1,0 +1,1 @@
+https://www.linkedin.com/posts/samir-arfaoui-a1253b290_the-magic-of-ls-c-in-your-shell-ever-activity-7106670564596932608-JY3J?utm_source=share&utm_medium=member_desktop
