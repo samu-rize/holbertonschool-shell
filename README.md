@@ -88,8 +88,7 @@ The scripts in this directory were completed as part of the Shell, Init Files, V
 - [12-combinations](init_files_variables_and_expansions/12-combinations)
 - [13-print_float](init_files_variables_and_expansions/13-print_float)
 - [14-decimal_to_hexadecimal](init_files_variables_and_expansions/14-decimal_to_hexadecimal)
-- [15. What happens when you type ls *.c
-](init_files_variables_and_expansions/15)
+- [15._What_happens_when_you_type_ls*](init_files_variables_and_expansions/15._What_happens_when_you_type_ls*)
 - [15-rot13](init_files_variables_and_expansions/15-rot13)
 - [16-odd](init_files_variables_and_expansions/16-odd)
 - [17-water_and_stir](init_files_variables_and_expansions/17-water_and_stir)

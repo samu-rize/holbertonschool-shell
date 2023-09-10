@@ -74,8 +74,7 @@ Welcome to the "Shell, Init Files, Variables, and Expansions" project! The scrip
 
   - This script converts a number from base 10 to base 16, with the number in base 10 stored in the environment variable 'DECIMAL.'
 
-#### [15. What happens when you type ls *.c
-](15)
+#### [15._What_happens_when_you_type_ls*](15._What_happens_when_you_type_ls*)
 
   - This script explains step by step what happens when you type 'ls *.c' and hit Enter in your shell, including examples.
 
